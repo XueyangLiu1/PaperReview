@@ -16,9 +16,9 @@ By Computer Systems Research Group, Computer Science Division,Department of Elec
 
 ### Strengths:
 - The review and analysis about the old file system were very detailed and theoretically convincible.
-- The newly proposed system was explained clearly, including the implementation policy, the working principles, the 
-- 
+- The newly proposed system was explained clearly, including the implementation method and the working principles.
+- The paper also conducted comprehensive tests to verify the performance of the new system.
 
 ### Weaknesses:
 
-- The paper proposed a lot of ideas and also a lot of problems, in a mixed style and was not easy for me to distinguish them from each other. If I were a researcher, I might be confused and felt not clear about what on earth was the problem needed to be resolved.
+- The paper contains so much information and to some extent is not easy to read. When explaining the old and new file system's memory allocation strategy, I think it would be better if there were some figures to help explain the concepts. 
